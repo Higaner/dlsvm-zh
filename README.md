@@ -1,10 +1,10 @@
-提示：
+prompt:
 
-1：用的人增多，肯定会步达拉斯的后尘，用起来别太狠，建议轻度用户使用
+1: If more people use it, it will definitely follow in Dallas's footsteps. Don't use it too harshly. Light users are recommended to use it.
 
-2：脚本默认情况下：仅支持IBM伦敦仅支持IBM伦敦仅支持IBM伦敦 ，每天自动更新Xray并重启
+2: script by default: only supports IBM London, only supports IBM London, only supports IBM London, Xray is automatically updated and restarted every day
 
-3：2021.1.12更新：默认内存从128M设置为256M
+3: 2020.1.12 update: the default memory is set from 128M to 256M
 
 
 
@@ -17,6 +17,6 @@
   | `V2_UUID` | 自定义UUID码 |
   | `V2_WS_PATH_VMESS` </br> `V2_WS_PATH_VLESS` | 协议选择一个，填入自定义PATH路径 |
   
-注：VMESS默认的alterId为64
+Note: VMESS default alterId is 0
 
-本项目基于P3TERX项目修改而来，感谢P3TERX
+This project is modified based on the P3TERX project, thanks to P3TERX
