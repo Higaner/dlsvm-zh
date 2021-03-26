@@ -1,8 +1,8 @@
-prompt:
+Prompt:
 
 1: If more people use it, it will definitely follow in Dallas's footsteps. Don't use it too harshly. Light users are recommended to use it.
 
-2: script by default: only supports IBM London, only supports IBM London, only supports IBM London, Xray is automatically updated and restarted every day
+2: Script by default: only supports IBM London, only supports IBM London, only supports IBM London, Xray is automatically updated and restarted every day
 
 3: 2020.1.12 update: the default memory is set from 128M to 256M
 
